@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MultiEnvironmentList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Alias>
+    <anyType xsi:type="xsd:string">Production System</anyType>
+  </Alias>
+  <UNCPath>
+    <anyType xsi:type="xsd:string">\TSTA2NISQL101\VisiCAD</anyType>
+  </UNCPath>
+  <IsDefault>
+    <anyType xsi:type="xsd:boolean">true</anyType>
+  </IsDefault>
+</MultiEnvironmentList>

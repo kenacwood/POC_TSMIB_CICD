@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Instructions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateFormat>AQMBGYgDR5lqtlPIHztPFGn28xgb7HCMSYOVQOpvtQ0=</DateFormat>
+  <TimeFormat>17rWLIIuVQPRe2PIwfle25QKxVawWiqKB3PCCYnhWzU=</TimeFormat>
+  <UNCPath>9ZrkGPmFdDgXgQ7j7mGxVQ==</UNCPath>
+  <MapDriveLetter>9ZrkGPmFdDgXgQ7j7mGxVQ==</MapDriveLetter>
+  <EmptyRecycleBin>b+Y1D9fTcMZ+HsqwjO4PAw==</EmptyRecycleBin>
+  <UpdateEnvironmentPath>b+Y1D9fTcMZ+HsqwjO4PAw==</UpdateEnvironmentPath>
+  <DisableScreenSaver>b+Y1D9fTcMZ+HsqwjO4PAw==</DisableScreenSaver>
+  <DisableDesktopEffects>b+Y1D9fTcMZ+HsqwjO4PAw==</DisableDesktopEffects>
+  <DisablePowerSave>b+Y1D9fTcMZ+HsqwjO4PAw==</DisablePowerSave>
+  <BackupFiles>b+Y1D9fTcMZ+HsqwjO4PAw==</BackupFiles>
+  <ProtectReadOnlyFiles>b+Y1D9fTcMZ+HsqwjO4PAw==</ProtectReadOnlyFiles>
+  <StartupApplication>9ZrkGPmFdDgXgQ7j7mGxVQ==</StartupApplication>
+  <StartupApplicationArguments>9ZrkGPmFdDgXgQ7j7mGxVQ==</StartupApplicationArguments>
+  <DataSourceName />
+  <DatabaseName />
+  <ServerName />
+  <IntegratedSecurity />
+  <ANISdentifiers />
+  <ANSINulls />
+  <SourceFile />
+  <TargetPath />
+  <RegisterFile />
+  <RegistrySubkey />
+  <RegistryName />
+  <RegistryValue />
+</Instructions>

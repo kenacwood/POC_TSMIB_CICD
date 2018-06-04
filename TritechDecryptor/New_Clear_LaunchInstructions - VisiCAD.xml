@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Instructions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateFormat>AQMBGYgDR5lqtlPIHztPFGn28xgb7HCMSYOVQOpvtQ0=</DateFormat>
+  <TimeFormat>17rWLIIuVQPRe2PIwfle25QKxVawWiqKB3PCCYnhWzU=</TimeFormat>
+  <UNCPath>Fbgd+EfDWtKUS/TtDo3KXRTkgvY3W3B2Muoeoro8X8Secnol0nBbqPfTDXxrB+bq</UNCPath>
+  <MapDriveLetter>FTUw79mvlAjOQtuT09KVpg==</MapDriveLetter>
+  <EmptyRecycleBin>gSW4+q9kYp8ihLjADKq5ug==</EmptyRecycleBin>
+  <UpdateEnvironmentPath>gSW4+q9kYp8ihLjADKq5ug==</UpdateEnvironmentPath>
+  <DisableScreenSaver>gSW4+q9kYp8ihLjADKq5ug==</DisableScreenSaver>
+  <DisableDesktopEffects>b+Y1D9fTcMZ+HsqwjO4PAw==</DisableDesktopEffects>
+  <DisablePowerSave>b+Y1D9fTcMZ+HsqwjO4PAw==</DisablePowerSave>
+  <BackupFiles>b+Y1D9fTcMZ+HsqwjO4PAw==</BackupFiles>
+  <ProtectReadOnlyFiles>gSW4+q9kYp8ihLjADKq5ug==</ProtectReadOnlyFiles>
+  <StartupApplication>PLU02whFsCFL9k/I6edACqKI53cnKouP6X4Yo2vK9iyp3q0Z9YsSFx9jdbstjIGmQ4vADP9Yr82BCZzY3h6R7mQ+RNZVgm+wLfld2u1xoic=</StartupApplication>
+  <StartupApplicationArguments>9ZrkGPmFdDgXgQ7j7mGxVQ==</StartupApplicationArguments>
+  <DataSourceName>
+    <anyType xsi:type="xsd:string">MgAtoGdpouyblPlikpTaoQ==</anyType>
+    <anyType xsi:type="xsd:string">9dC94XfrRZRhs9mZuarN3w==</anyType>
+    <anyType xsi:type="xsd:string">pH9CeCgb9A6Cu01T7ubzuA==</anyType>
+    <anyType xsi:type="xsd:string">k//BpsBHc4qRzVKCOx87His+Vltb9lLmerfgyp4hXhCMNIg8zt+nRsin5n1TaHdw</anyType>
+  </DataSourceName>
+  <DatabaseName>
+    <anyType xsi:type="xsd:string">MgAtoGdpouyblPlikpTaoQ==</anyType>
+    <anyType xsi:type="xsd:string">goGx80vaR2rpq4/pqqaG3Rg/kmN0fxfd38abkz8AFYk=</anyType>
+    <anyType xsi:type="xsd:string">Yk7vIO574NZVXWiouYiVz0SjeRnearBQy/oG/FVo7/s=</anyType>
+    <anyType xsi:type="xsd:string">goGx80vaR2rpq4/pqqaG3Rg/kmN0fxfd38abkz8AFYk=</anyType>
+  </DatabaseName>
+  <ServerName>
+    <anyType xsi:type="xsd:string">PPHuTR0EtQqvTUre3Y9EDw==</anyType>
+    <anyType xsi:type="xsd:string">PPHuTR0EtQqvTUre3Y9EDw==</anyType>
+    <anyType xsi:type="xsd:string">PPHuTR0EtQqvTUre3Y9EDw==</anyType>
+    <anyType xsi:type="xsd:string">PPHuTR0EtQqvTUre3Y9EDw==</anyType>
+  </ServerName>
+  <IntegratedSecurity>
+    <anyType xsi:type="xsd:string">RVHt40+WQNePI33KSYOygQ==</anyType>
+    <anyType xsi:type="xsd:string">gSW4+q9kYp8ihLjADKq5ug==</anyType>
+    <anyType xsi:type="xsd:string">gSW4+q9kYp8ihLjADKq5ug==</anyType>
+    <anyType xsi:type="xsd:string">gSW4+q9kYp8ihLjADKq5ug==</anyType>
+  </IntegratedSecurity>
+  <ANISdentifiers>
+    <anyType xsi:type="xsd:string">UW3kNqfMOcRLfMwLw2UXiw==</anyType>
+    <anyType xsi:type="xsd:string">gSW4+q9kYp8ihLjADKq5ug==</anyType>
+    <anyType xsi:type="xsd:string">gSW4+q9kYp8ihLjADKq5ug==</anyType>
+    <anyType xsi:type="xsd:string">gSW4+q9kYp8ihLjADKq5ug==</anyType>
+  </ANISdentifiers>
+  <ANSINulls>
+    <anyType xsi:type="xsd:string">UW3kNqfMOcRLfMwLw2UXiw==</anyType>
+    <anyType xsi:type="xsd:string">gSW4+q9kYp8ihLjADKq5ug==</anyType>
+    <anyType xsi:type="xsd:string">gSW4+q9kYp8ihLjADKq5ug==</anyType>
+    <anyType xsi:type="xsd:string">gSW4+q9kYp8ihLjADKq5ug==</anyType>
+  </ANSINulls>
+  <SourceFile />
+  <TargetPath />
+  <RegisterFile />
+  <RegistrySubkey>
+    <anyType xsi:type="xsd:string">/NoFhicl7mbArrbXKpkH/QXR6ZcfxIEcPrSvkTECqdnwR0mJKD1X/A4zlyZuTTQpiIJ6hbAQ9UtPwR3tL33JQ/MvMdFg6dzhKkDtNvp3kbKEnwPip8OK0xHlXy4HZQOx+q4KF6K1falQ3i9bHF6kTxOx2XfKS4oZOAIUBXP8V7Q=</anyType>
+    <anyType xsi:type="xsd:string">/NoFhicl7mbArrbXKpkH/QXR6ZcfxIEcPrSvkTECqdnwR0mJKD1X/A4zlyZuTTQpiIJ6hbAQ9UtPwR3tL33JQ/MvMdFg6dzhKkDtNvp3kbKEnwPip8OK0xHlXy4HZQOx+q4KF6K1falQ3i9bHF6kTxOx2XfKS4oZOAIUBXP8V7Q=</anyType>
+    <anyType xsi:type="xsd:string">/NoFhicl7mbArrbXKpkH/QXR6ZcfxIEcPrSvkTECqdnwR0mJKD1X/A4zlyZuTTQpiIJ6hbAQ9UtPwR3tL33JQ/MvMdFg6dzhKkDtNvp3kbKEnwPip8OK0xHlXy4HZQOxjLXQoMLh4r7t4ifdcPeadwvkTF7aHwAyJHZT+VzntHA=</anyType>
+  </RegistrySubkey>
+  <RegistryName>
+    <anyType xsi:type="xsd:string">d0R3HMZzP5UeFyHFREbA1RN4DTr1etmT4Foi1VhO6ys=</anyType>
+    <anyType xsi:type="xsd:string">If+Vs/1JqjlXDwKyQ1SXEk7eOYbUZa5tB11cLTlGBjc=</anyType>
+    <anyType xsi:type="xsd:string">jNOzpW/ED2Dacq1qW5QvMqIjNRLp7TqwoYmU7e/bP5A=</anyType>
+  </RegistryName>
+  <RegistryValue>
+    <anyType xsi:type="xsd:string">reh4sSWOeX12bPtM4F87wwIX+3bRL8o7R0gp6HjL1wUYmH8XPQuPu4M4Tt1zSH8N</anyType>
+    <anyType xsi:type="xsd:string">reh4sSWOeX12bPtM4F87wwIX+3bRL8o7R0gp6HjL1wUYmH8XPQuPu4M4Tt1zSH8N</anyType>
+    <anyType xsi:type="xsd:string">reh4sSWOeX12bPtM4F87wwIX+3bRL8o7R0gp6HjL1wU+Y1NGmBpDGmiARiuLw8VfYlfDrqM2kGug/327+JstQ25rXOCjusD7jAROsfjjdTE=</anyType>
+  </RegistryValue>
+</Instructions>

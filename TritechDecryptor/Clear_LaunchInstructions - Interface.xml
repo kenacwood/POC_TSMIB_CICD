@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Instructions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateFormat>MM/dd/yyyy</DateFormat>
+  <TimeFormat>HH:mm:ss</TimeFormat>
+  <UNCPath>\\TSTA2ASKEN101\VisiCadSource</UNCPath>
+  <MapDriveLetter>Q</MapDriveLetter>
+  <EmptyRecycleBin>True</EmptyRecycleBin>
+  <UpdateEnvironmentPath>False</UpdateEnvironmentPath>
+  <DisableScreenSaver>True</DisableScreenSaver>
+  <DisableDesktopEffects>False</DisableDesktopEffects>
+  <DisablePowerSave>False</DisablePowerSave>
+  <BackupFiles>True</BackupFiles>
+  <ProtectReadOnlyFiles>True</ProtectReadOnlyFiles>
+  <StartupApplication></StartupApplication>
+  <StartupApplicationArguments></StartupApplicationArguments>
+  <DataSourceName>
+    <anyType xsi:type="xsd:string">Mail</anyType>
+    <anyType xsi:type="xsd:string">Proxy</anyType>
+    <anyType xsi:type="xsd:string">System</anyType>
+    <anyType xsi:type="xsd:string">Streets</anyType>
+    <anyType xsi:type="xsd:string">SystemDataWarehouse</anyType>
+  </DataSourceName>
+  <DatabaseName>
+    <anyType xsi:type="xsd:string">Messaging</anyType>
+    <anyType xsi:type="xsd:string">Proxy</anyType>
+    <anyType xsi:type="xsd:string">CAD_System</anyType>
+    <anyType xsi:type="xsd:string">CAD_Streets</anyType>
+    <anyType xsi:type="xsd:string">CAD_System</anyType>
+  </DatabaseName>
+  <ServerName>
+    <anyType xsi:type="xsd:string">TSTA2ASKEN101</anyType>
+    <anyType xsi:type="xsd:string">TSTA2ASKEN101</anyType>
+    <anyType xsi:type="xsd:string">TSTA2ASKEN101</anyType>
+    <anyType xsi:type="xsd:string">TSTA2ASKEN101</anyType>
+    <anyType xsi:type="xsd:string">TSTA2ASKEN101</anyType>
+  </ServerName>
+  <IntegratedSecurity>
+    <anyType xsi:type="xsd:string">true</anyType>
+    <anyType xsi:type="xsd:string">true</anyType>
+    <anyType xsi:type="xsd:string">True</anyType>
+    <anyType xsi:type="xsd:string">True</anyType>
+    <anyType xsi:type="xsd:string">True</anyType>
+  </IntegratedSecurity>
+  <ANISdentifiers>
+    <anyType xsi:type="xsd:string">false</anyType>
+    <anyType xsi:type="xsd:string">false</anyType>
+    <anyType xsi:type="xsd:string">False</anyType>
+    <anyType xsi:type="xsd:string">False</anyType>
+    <anyType xsi:type="xsd:string">False</anyType>
+  </ANISdentifiers>
+  <ANSINulls>
+    <anyType xsi:type="xsd:string">false</anyType>
+    <anyType xsi:type="xsd:string">false</anyType>
+    <anyType xsi:type="xsd:string">False</anyType>
+    <anyType xsi:type="xsd:string">False</anyType>
+    <anyType xsi:type="xsd:string">False</anyType>
+  </ANSINulls>
+  <SourceFile />
+  <TargetPath />
+  <RegisterFile />
+  <RegistrySubkey>
+    <anyType xsi:type="xsd:string">Software\VB and VBA Program Settings\CreateObject\Startup</anyType>
+    <anyType xsi:type="xsd:string">Software\VB and VBA Program Settings\CreateObject\Startup</anyType>
+    <anyType xsi:type="xsd:string">Software\VB and VBA Program Settings\CreateObject\Startup</anyType>
+    <anyType xsi:type="xsd:string">Software\VB and VBA Program Settings\CreateObject\txtClientDDE</anyType>
+  </RegistrySubkey>
+  <RegistryName>
+    <anyType xsi:type="xsd:string">clsCadServer</anyType>
+    <anyType xsi:type="xsd:string">clsMultiAgency</anyType>
+    <anyType xsi:type="xsd:string">clsMessageSwitch</anyType>
+    <anyType xsi:type="xsd:string">LinkTopic</anyType>
+  </RegistryName>
+  <RegistryValue>
+    <anyType xsi:type="xsd:string">MessageSwitchOleServer</anyType>
+    <anyType xsi:type="xsd:string">MessageSwitchOleServer</anyType>
+    <anyType xsi:type="xsd:string">MessageSwitchOleServer</anyType>
+    <anyType xsi:type="xsd:string">MessageSwitchOleServer|ServerMainForm</anyType>
+  </RegistryValue>
+</Instructions>
